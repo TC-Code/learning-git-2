@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
-/* line 3, /Users/tomaszchowaniec/Documents/CODE/KODILLA/7_Git_i_NPM/learning-git-2/style.scss */
 body {
   font-family: 'Roboto', sans-serif; }
+
+h1,
+h3 {
+  text-transform: uppercase;
+  color: #008000; }
 
 /*# sourceMappingURL=style.css.map */
